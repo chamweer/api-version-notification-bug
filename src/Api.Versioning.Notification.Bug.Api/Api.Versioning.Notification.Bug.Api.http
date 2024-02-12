@@ -1,0 +1,6 @@
+@Api.Versioning.Notification.Bug.Api_HostAddress = http://localhost:5128
+
+GET {{Api.Versioning.Notification.Bug.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
